@@ -1,0 +1,10 @@
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.manifest
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.application
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.TrustInfo.xml
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe.manifest
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.application

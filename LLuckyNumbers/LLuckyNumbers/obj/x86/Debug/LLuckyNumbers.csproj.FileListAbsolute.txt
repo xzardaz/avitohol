@@ -1,0 +1,5 @@
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\LLuckyNumbers\LLuckyNumbers\bin\Debug\LLuckyNumbers.exe
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\LLuckyNumbers\LLuckyNumbers\bin\Debug\LLuckyNumbers.pdb
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\LLuckyNumbers\LLuckyNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\LLuckyNumbers\LLuckyNumbers\obj\x86\Debug\LLuckyNumbers.exe
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\LLuckyNumbers\LLuckyNumbers\obj\x86\Debug\LLuckyNumbers.pdb

@@ -1,0 +1,5 @@
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\KaspichanNumbers\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\KaspichanNumbers\KaspichanNumbers\bin\Debug\KaspichanNumbers.pdb
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\KaspichanNumbers\KaspichanNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\KaspichanNumbers\KaspichanNumbers\obj\x86\Debug\KaspichanNumbers.exe
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\KaspichanNumbers\KaspichanNumbers\obj\x86\Debug\KaspichanNumbers.pdb

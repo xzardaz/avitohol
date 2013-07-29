@@ -1,0 +1,5 @@
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\CSBrackets\CSBrackets\bin\Debug\CSBrackets.exe
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\CSBrackets\CSBrackets\bin\Debug\CSBrackets.pdb
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\CSBrackets\CSBrackets\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\CSBrackets\CSBrackets\obj\x86\Debug\CSBrackets.exe
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\CSBrackets\CSBrackets\obj\x86\Debug\CSBrackets.pdb

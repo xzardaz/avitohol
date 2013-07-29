@@ -1,0 +1,5 @@
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\drunkenNumbers\drunkenNumbers\bin\Debug\drunkenNumbers.exe
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\drunkenNumbers\drunkenNumbers\bin\Debug\drunkenNumbers.pdb
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\drunkenNumbers\drunkenNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\drunkenNumbers\drunkenNumbers\obj\x86\Debug\drunkenNumbers.exe
+c:\documents and settings\tsonko\my documents\visual studio 2010\Projects\drunkenNumbers\drunkenNumbers\obj\x86\Debug\drunkenNumbers.pdb

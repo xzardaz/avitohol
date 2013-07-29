@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/PerformanceTabManager/XmlContent/@EntryValue">&lt;TabManagerStates&gt;&lt;PerformanceTabManager.State xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance"&gt;&#xD;
+  &lt;ActiveIndex&gt;0&lt;/ActiveIndex&gt;&#xD;
+  &lt;RootIndex&gt;0&lt;/RootIndex&gt;&#xD;
+  &lt;TabStates&gt;&#xD;
+    &lt;PerformanceTabManager.State.TabState&gt;&#xD;
+      &lt;OpenedView&gt;Overview&lt;/OpenedView&gt;&#xD;
+      &lt;TabRootState xmlns:d4p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.TabRoots" i:type="d4p1:SnapshotTabRoot.State"&gt;&#xD;
+        &lt;d4p1:ViewsFactoryState xmlns:d5p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Views" i:type="d5p1:ViewsFactoryBase.State"&gt;&#xD;
+          &lt;d5p1:States /&gt;&#xD;
+        &lt;/d4p1:ViewsFactoryState&gt;&#xD;
+      &lt;/TabRootState&gt;&#xD;
+    &lt;/PerformanceTabManager.State.TabState&gt;&#xD;
+  &lt;/TabStates&gt;&#xD;
+&lt;/PerformanceTabManager.State&gt;&lt;/TabManagerStates&gt;</s:String></wpf:ResourceDictionary>
